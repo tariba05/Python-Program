@@ -1,0 +1,30 @@
+The _____ programming paradigm uses classes to combine data with related methods.
+functional
+modular
+procedural
+object-oriented
+4
+A(n) _____ is a component of a class that references data.
+instance
+method
+attribute
+module
+3
+A(n) _____ method returns the value of a data attribute.
+constructor
+accessor
+inititializer
+mutator
+2
+The _____ method is automatically called the first time an object is created.
+__init__
+main
+self
+__str__
+1
+The purpose of the __str__ method is to _____.
+Initialize a new object with meaningful data values
+Change the value of one of the data attributes
+Return a string representation of all the object's data
+Return the value of one of the data attributes
+3
